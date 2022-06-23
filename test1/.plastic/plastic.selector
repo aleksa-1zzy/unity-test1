@@ -1,0 +1,4 @@
+repository "test1@unity2dcolab@cloud"
+  path "/"
+    smartbranch "/main" 
+     
